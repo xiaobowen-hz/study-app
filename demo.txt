@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-this is bug
-=======
-<<<<<<< HEAD
-my name is new branch
-=======
-my name id dev
->>>>>>> dev
-good a god
->>>>>>> Stashed changes
-itera code one
-itera code two
-itera code three
+this is master
