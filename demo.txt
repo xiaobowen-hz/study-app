@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-my name is new branch
-=======
-my name id dev
->>>>>>> dev
+this is bug
