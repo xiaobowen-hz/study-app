@@ -1,1 +1,9 @@
 my name id dev
+<<<<<<< HEAD
+=======
+>>>>>>> dev
+good a god
+>>>>>>> Stashed changes
+itera code one
+itera code two
+>>>>>>> 3fd990f (iter two)
